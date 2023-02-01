@@ -1,9 +1,9 @@
 #### Welcome to bezos' github.🎉
 
-Nice to meet you, I'm a student on the front end, hope my repositories can help you!👋🏻👋🏻
+很高兴能和你在github见面,希望我的项目对你有所帮助!
 
 Website:https://bezos.life/
 
-email:caro1xxxhv@gmail.com
+email:[caro1xxxhv@gmail.com](mailto:caro1xxxhv@gmail.com)
 
 掘金:bezos
