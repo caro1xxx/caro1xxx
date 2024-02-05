@@ -4,6 +4,4 @@
 
 blog:https://blog.bezos.life/
 
-email:[caro1xxxhv@gmail.com](mailto:caro1xxxhv@gmail.com)
-
 掘金:bezos
